@@ -24,10 +24,10 @@ React components were used to separate concerns — the chat messages were manag
 
 This task significantly deepened my understanding of React fundamentals. I learned how to manage component state, pass props, use side effects responsibly, and maintain clean separation of concerns. I also implemented auto-scroll functionality to ensure that new messages remain visible, enhancing user experience.
 
-#OUTPUT
-
-![Image](https://github.com/user-attachments/assets/174d83b4-4275-4339-bb62-5b7f0e767881)
-
 This chat app also includes support for keyboard input via the Enter key, real-time state updates, and simulated incoming messages. From a design perspective, the interface includes a scrollable message area and styled message bubbles to differentiate between user and bot messages. Everything is responsive and works smoothly on different screen sizes.
 
 Overall, Task 2 was an important step in moving from basic HTML/CSS/JS to using component-based front-end frameworks. I now feel much more confident working with React, managing UI state, and building scalable UI components for real-world apps. The chat app is a fully functional and polished piece of front-end work that reflects the key skills of a frontend developer.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/174d83b4-4275-4339-bb62-5b7f0e767881)
